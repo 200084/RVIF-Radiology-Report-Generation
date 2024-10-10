@@ -1,5 +1,5 @@
 # RVIF-Radiology-Report-Generation
-### Implementation of Reinforced Visual Interaction Fusion Radiology Report Generation (RVIF).
+### Implementation of Reinforced Visual Interaction Fusion Radiology Report Generation (RVIF). [Multimedia Systems 2024]
 <div align="center">
   <img src="https://github.com/200084/RVIF-Radiology-Report-Generation/blob/main/RVIF.jpg">
 </div>
