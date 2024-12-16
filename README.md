@@ -7,6 +7,7 @@
 # Requirements 
 ## Enviroment & Dataset Preparation(The same as R2GenCMN)
 Enviroment and dataset are both reference to [R2GenCMN](https://github.com/zhjohnchan/R2GenCMN)
+The dataset contains IU X-Ray and MIMIC-CXR.
 
 # Training
 ## Training for the RVIF-NO-RL
