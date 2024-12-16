@@ -19,10 +19,10 @@ Run bash `run_rl_mimic` in `/RVIF-RL` to test on the MIMIC-CXR data.
 
 # Evaluation or Testing 
 ## NLG Evaluation or Testing
-Run bash `run_rl_iu.sh` in `/RVIF-RL` to test on the IU X-Ray data. Both training and test metrics are included in the resulting CSV.
-Run bash `run_rl_mimic.sh` in `/RVIF-RL` to test on the MIMIC-CXR data. Both training and test metrics are included in the resulting CSV.
+Run bash `run_rl_iu.sh` in `/RVIF-RL` to test on the IU X-Ray data. Both training and test metrics are included in the resulting `CSV`.
+Run bash `run_rl_mimic.sh` in `/RVIF-RL` to test on the MIMIC-CXR data. Both training and test metrics are included in the resulting `CSV`.
 ## CE Evaluation or Testing
-Follow [CheXpert](https://github.com/MIT-LCP/mimic-cxr/tree/master/txt/chexpert) or [CheXbert](https://github.com/stanfordmlgroup/CheXbert) to extract the labels and then run python compute_ce.py. Note that there are several steps that might accumulate the errors for the computation, e.g., the labelling error and the label conversion. 
+Follow [CheXpert](https://github.com/MIT-LCP/mimic-cxr/tree/master/txt/chexpert) or [CheXbert](https://github.com/stanfordmlgroup/CheXbert) to extract the labels and then run python `compute_ce.py`. Note that there are several steps that might accumulate the errors for the computation, e.g., the labelling error and the label conversion. 
 
 # Reference
 If you find this repo useful, please consider citing (no obligation at all):
